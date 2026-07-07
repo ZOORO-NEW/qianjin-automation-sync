@@ -1,0 +1,15 @@
+# WorkBuddy auto-generated files
+_files.json
+_read_files.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Export files
+automation-export-*.json
