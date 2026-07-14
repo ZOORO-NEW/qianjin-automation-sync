@@ -1,10 +1,11 @@
 ---
-name: automation-sync
+name: qianjin-automation-sync
 description: "WorkBuddy 自动化任务的跨设备备份、导出、导入与迁移工具。当用户需要备份自动化任务、导出自动化配置、迁移自动化到新设备、跨电脑同步自动化任务时使用此技能。触发词包括：导出自动化、备份自动化、导入自动化、迁移自动化、同步自动化任务、automation export/import/backup/restore/sync/migrate、换电脑自动化任务没了、自动化任务跨设备、automation backup。此技能通过 automation_update 工具的 list/view/create 模式实现，不直接操作 SQLite 数据库，确保操作安全可靠。"
 agent_created: true
+disable: false
 ---
 
-# Automation Sync
+# Qianjin Automation Sync
 
 ## Overview
 
