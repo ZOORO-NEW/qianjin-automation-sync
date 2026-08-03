@@ -1,4 +1,9 @@
 ---
+version: 1.0.0
+slug: qianjin-automation-sync
+displayName: 自动化任务跨设备备份同步
+summary: "'WorkBuddy 自动化任务与已安装技能的全量跨设备备份、导出、导入与迁移工具。当用户需要备份自动化任务、导出/导入技能、迁移自动化到新设备、跨电脑同步全部配置时使用此技能。触发词包括：导出自动化、备份自动化、导入自动化、迁移自动..."
+license: MIT
 name: qianjin-automation-sync
 category: 效率工具
 platforms: [workbuddy, claude-code, cursor, windsurf, codex]
